@@ -1,0 +1,6 @@
+info
+help
+show
+add
+1
+2
